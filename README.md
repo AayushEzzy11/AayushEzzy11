@@ -75,6 +75,6 @@ Dev Tools: Git GitHub Docker GitHub Actions Figma VS Code Postman npm Builder.io
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aayush-balami-2880a51b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aayush-balami-2880a51b5)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer)
