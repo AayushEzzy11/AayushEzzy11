@@ -3,11 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=250&section=header&text=Aayush%20Balami&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=React%20Developer%20•%20Full%20Stack%20Developer%20•%20Blockchain%20Developer%20•%20Data%20Analyst%20•%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </p>
-
 <div align="center">
-
-# Hi 👋, I'm **Aayush Balami**
-
 ### Building modern web applications, blockchain solutions, and data-driven products.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EF4444&center=true&vCenter=true&width=900&lines=React+Developer;Full+Stack+Developer;Blockchain+Developer;Data+Analyst;Cloud+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
