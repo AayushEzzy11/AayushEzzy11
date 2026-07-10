@@ -270,25 +270,6 @@
 - 🌍 Contribute consistently to Open Source
 - 📚 Continue learning new technologies every day
 
----
-
-# 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-React / Next.js      ████████████░░░░░   45%
-TypeScript           ████████░░░░░░░░   25%
-Firebase             █████░░░░░░░░░░░   12%
-Solidity             ████░░░░░░░░░░░░    8%
-SQL                  ███░░░░░░░░░░░░░    6%
-Other                ██░░░░░░░░░░░░░░    4%
-```
-<!--END_SECTION:waka-->
-
-> **Note:** The section above is a placeholder. You can automate it later using the WakaTime GitHub Action.
-
----
-
 # ✨ Fun Fact
 
 <div align="center">
