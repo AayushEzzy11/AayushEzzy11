@@ -234,7 +234,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aayush-balami-2880a51b">
+<a href="https://www.linkedin.com/in/aayush-balami-2880a51b5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
