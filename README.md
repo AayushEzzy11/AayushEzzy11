@@ -36,7 +36,7 @@
 | 💼 Focus | React • Full Stack • Blockchain • Data Analytics • Cloud |
 | 🌱 Learning | Power BI • SQL • Python • Cloud |
 | 🤝 Collaboration | React, Blockchain & Open Source Projects |
-| 🎯 Goal | Software Development & Data Analytics Internship |
+| 🎯 Goal | Software Development & Data Analytics  |
 
 ---
 
