@@ -126,7 +126,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=SahayogRed&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/SahayogRed)
+[![SahayogRed](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=SahayogRed&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/SahayogRed)
 
 </div>
 
@@ -146,6 +146,7 @@
 [![Code](https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AayushEzzy11/SahayogRed)
 
 </div>
+
 ---
 
 ## 🗳️ VoteBridge (E-voting-platform)
