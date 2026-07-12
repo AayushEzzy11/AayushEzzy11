@@ -126,8 +126,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=SahayogRed&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/SahayogRed)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=sahayogred&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/sahayogred)
 </div>
 
 > A blood donation and request platform that connects donors with recipients through a secure, user-friendly web application.
