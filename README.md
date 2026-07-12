@@ -153,7 +153,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=E-voting-platform&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/E-voting-platform)
+[![VoteBridge](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=E-voting-platform&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/E-voting-platform)
 
 </div>
 
