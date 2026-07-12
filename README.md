@@ -122,37 +122,7 @@
 ---
 
 # 🚀 Featured Projects## 
-❤️ SahayogRed
-
-<div align="center">
-
-[![SahayogRed](https://github-readme-stats.vercel.app/api/pin?username=AayushEzzy11&repo=YOUR_EXACT_REPO_NAME&theme=github_dark&hide_border=true&border_radius=15)](https://github.com/AayushEzzy11/YOUR_EXACT_REPO_NAME)
-
-</div>
-
-> A blood donation and request platform that connects donors with recipients through a secure, user-friendly web application.
-
-### 🛠 Tech Stack
-
-| Layer | Technology |
-|--------|------------|
-| **Frontend** | React.js · TypeScript · Vite · Tailwind CSS |
-| **Backend** | Firebase Authentication |
-| **Database** | Firestore |
-| **Cloud** | Firebase Hosting |
-
-<div align="center">
-
-<a href="https://github.com/AayushEzzy11/YOUR_EXACT_REPO_NAME">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=firebase&logoColor=white"/>
-</a>
-
-</div>
-
+## ❤️ SahayogRed <div align="center"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=sahayogred&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/sahayogred) </div> > A blood donation and request platform that connects donors with recipients through a secure, user-friendly web application. ### 🛠 Tech Stack | Layer | Technology | |--------|------------| | Frontend | React.js, TypeScript, Vite, Tailwind CSS | | Backend | Firebase Authentication | | Database | Firestore | | Cloud | Firebase Hosting | <div align="center"> [![Code](https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AayushEzzy11/SahayogRed) </div>
 ---
 
 ---
