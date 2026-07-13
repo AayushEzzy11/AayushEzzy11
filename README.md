@@ -126,7 +126,7 @@
 
 <div align="center">
 
-[![SahayogRed](https://github-readme-stats.vercel.app/api/pin/?username=AayushEzzy11&repo=SahayogRed&theme=github_dark&hide_border=true)](https://github.com/AayushEzzy11/SahayogRed)
+[![SahayogRed](https://github-readme-stats.vercel.app/api/pin?username=AayushEzzy11&repo=sahayogred&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/AayushEzzy11/sahayogred)
 
 </div>
 
