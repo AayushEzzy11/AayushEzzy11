@@ -99,11 +99,7 @@
 
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
 <br><br>
 
